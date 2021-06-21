@@ -1,0 +1,6 @@
+#+title: Dramatistic Pentad
+
+
+#+CAPTION: Pentad -- The 5 Agencies
+#+NAME: fig:Pentad
+[[file:~/Images/roam/Dramatism_Pentad.png]]

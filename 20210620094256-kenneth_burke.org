@@ -1,0 +1,4 @@
+#+title: Kenneth Burke
+#+roam_key: https://en.wikipedia.org/wiki/Kenneth_Burke
+
+- source :: https://en.wikipedia.org/wiki/Kenneth_Burke
