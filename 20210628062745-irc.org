@@ -1,0 +1,5 @@
+#+title: IRC
+- tags :: [[file:20210628062723-eco_news_2021.org][Eco-news 2021]].
+
+* Definition
+IRC: Internet Relay Chat.

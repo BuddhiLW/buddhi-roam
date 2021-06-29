@@ -1,0 +1,2 @@
+#+title: Metals
+- tags :: [[file:20210628041248-wiedemann_franz_law_lorenz_number.org][Wiedemann-Franz Law - Lorenz Number]]. [[file:20210628041652-thermal_conductivity.org][Thermal Conductivity]].

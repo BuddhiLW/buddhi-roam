@@ -1,0 +1,17 @@
+#+title: Society
+
+- tags::[[file:20210622153603-community.org][Community]]. [[file:20210622154001-open_source.org][Open Source]]. [[file:20210622164422-do_ocracy.org][Do-Ocracy]].
+* Definition
+Societies must have /purpose/, even if it's not explicitly spoken. As it has to be hierarchical e.g.,
+
+#+begin_quote
+A large group of people who live together in an organized way, making decisions about how to do things and sharing the work that needs to be done. 
+#+end_quote
+
+By [[https://dictionary.cambridge.org/dictionary/english/society][Cambridge Dictionary.]]
+
+* What distinguishes Societies from Communities
+
+By the definitions of  [[file:20210622153603-community.org][Community]] and [[file:20210622153702-society.org][Society]], we note that societies are always communities. But, communities should not necessarily be classified by being a society. Because, to identify yourself and stand together in modes of behavior and thinking doesn't imply that the grouping has a purpose.
+
+Thus, for example, in anarchic states, societies can exist, even though the hierarchies are localized e.g., people locally decide how and what should be done by whom. Mostly out of desire, needs and feelings of (self-)care. Also, in this particular organization, there exists an ubiquitous sense of responsibility, competency and merit. Because there is no holding back on duty and criticism on those who are served by an action, leading to a dynamical state of hierarchy. One can take a lead, if presenting more competency. Therefore, It's a democratic competency state of affairs.  

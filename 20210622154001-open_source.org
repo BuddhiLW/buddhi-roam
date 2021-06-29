@@ -1,0 +1,7 @@
+#+title: Open Source
+
+* Origins
+* Concepts
+* Characteristics
+* What constitutes it?
+* Community or Society?

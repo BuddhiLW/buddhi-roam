@@ -1,0 +1,4 @@
+#+title: Do-Ocracy
+- tags :: [[file:20210622153603-community.org][Community]]. [[file:20210622154001-open_source.org][Open Source]]. [[file:20210622153702-society.org][Society]].
+
+  https://communitywiki.org/wiki/DoOcracy
