@@ -1,0 +1,43 @@
+#+title: Conscience
+- tags ::[[file:20210630093916-thinking.org][Thinking]].
+
+* Definition*
+What comes to our [[file:20210630094034-conscience.org][Conscience]] is the sum effect of transient [[file:20210630095747-primming.org][Priming]]
+and the Character (the permanent share). This can be illustrated as a
+Frame, in which priming colors it; it constantly fades; there is
+reminiscent background and that's what gives contrast to new colors.  
+
+Probably describable through the following definition:
+Conscience in a given $\Delta t$: $\int_{t_{1}}^{t_{2}}\left(\sum \psi_i(\zeta)\right) d(\zeta)$ .
+
+* The action of managing attention
+Different [[file:20210630094224-parallel_process.org][parallel process]] happen biologically, all the time. These
+sensory experiences can lead to the inner voice expression of feelings
+and the experience of [[file:20210630093916-thinking.org][Thinking.]] Once those phenomena happen, you can
+remember them and make meaningful use of insights and tantric visions,
+if you take [[file:20210630075331-notes.org][Notes]]. But, of course, the art is to do so, without
+losing fluidity - flow.
+
+You can gradually take notes. First mentally, while keeping a
+conversation. Then, on instantial matter (paper, or what have you, on
+that moment so to write symbolically the note) with quick hints on the
+thought, so you can easily access then on a recent future, when this
+interaction finishes, de facto. Be gradual with insights - they are
+gold among dirt. 
+
+* Using tools to corroborate on [[file:20210620100909-motive_agencies.org][Motive Agencies and Purpose.]] 
+
+Electronic media helps a lot on taking quick notes, once we often have
+them everywhere and they can communicate easily. So to push and backup
+your golden insights.
+
+Let the interaction flow, but pin-point your ideas. Make an effort to
+symbolize concisely, both with robust, as with vivifying, details;
+leave to your future-self great hints. The Focus Attention is not a
+good tool and should not be used to Remember things-events (It should
+only maintain and construct new memories).
+
+What gives you insight is not the Focus Attention. Although, one
+should use the Focus Attention to Navigate the present moment. So to
+make lasting structures of reality. To propagate ideas concisely. To
+multiply, parallel and efficiently manage your internal processes.
