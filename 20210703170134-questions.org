@@ -1,0 +1,51 @@
+#+title: Questions
+- tags :: [[file:20210703170158-awnsers.org][Awnsers]].
+
+  In the light of clarifying our Questions, we can achieve Awnsers, where we weren't looking at.
+
+* Question addressed to ABNTeX2 community 
+  #+begin_example  
+  Estou escrevendo minha monografia em inglês, e mudei a língua principal (a última listada) para inglês. Porém, a  "Lista de ilustrações", renderizadas por:
+
+% ---
+% inserir lista de ilustrações
+% ---
+\pdfbookmark[0]{\listfigurename}{lof}
+\listoffigures*
+\cleardoublepage
+% ---
+
+Ainda está em português. Também, o sumário:
+% ---
+% inserir o sumario
+% ---
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+% ---
+
+renderiza em português:
+
+A lista de abreviações e acrônimos, no entanto, está funcionando. Traduziu para "List of abbreviations and acronyms"; a capa também funciona.
+
+% ---
+% inserir lista de abreviaturas e siglas
+% ---
+\begin{siglas}
+  \item[FOSS] Free and Open Source Software  
+  \item[abnTeX] ABsurdas Normas para TeX
+\end{siglas}
+% ---
+
+#+end_example
+
+** The awnser
+I found I didn't change the language (babel way), after starting the document, with
+#+begin_example
+\selectlanguage{english}
+#+end_example
+
+Actually, it was explicitly marked to render brazilian portuguese
+#+begin_example
+\selectlanguage{brazil}
+#+end_example
