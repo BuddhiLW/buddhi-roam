@@ -1,0 +1,10 @@
+#+title: Exhaust Tech Sources
+:PROPERTIES:
+:ID:       1b71214b-c1a9-444f-bc49-9f8f166a0c20
+:END:
+Some goals:
+- Learn [[https://www.youtube.com/watch?v=UkE2KMsVzjQ&list=PLrK9UeDMcQLre1yPasCnuKvWvyXKzmKhW][rwxrob]] beginners boost.
+- Learn to hack some bash scripts with dwmblocks.
+  - Pomodoro.
+  - Moon phases.
+  - 

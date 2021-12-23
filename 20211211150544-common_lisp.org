@@ -1,0 +1,10 @@
+#+title: Common Lisp
+:PROPERTIES:
+:ID:       3af72492-f05b-44d2-83dc-690f67bb42b8
+:END:
+#+filetags: :PL:ASDF:
+An ancient and productive language.
+
+
+- Build system: =asdf=.
+  - Compile code.

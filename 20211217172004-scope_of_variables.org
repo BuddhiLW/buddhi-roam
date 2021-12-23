@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       447829e7-49de-454a-a50b-a05926594b81
+:END:
+#+title: Scope of variables
+
+The region of code, where a variable can be accessed, with a given
+value.
+
+Insight: color a rectangle area where the variable has scope.

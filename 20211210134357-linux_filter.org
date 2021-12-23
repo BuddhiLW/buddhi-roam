@@ -1,0 +1,14 @@
+#+title: Linux Filter
+:PROPERTIES:
+:ID:       1a041563-969a-4cc6-801a-f19daca2666a
+:END:
+#+filetags: :plug-in:text-editor:vim:Linux:
+
+- rwxrob
+https://www.youtube.com/watch?v=7asa2lTcwKI&list=LL
+
+In this video, he explains how to write a filter, =cmt=, so that you
+can issue a command in =vim=, to process text.
+
+It works just line =linear transformations=.
+

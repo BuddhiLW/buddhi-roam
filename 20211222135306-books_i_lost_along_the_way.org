@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       2ae7875e-3061-43b9-8d7f-9f8b3cc9d80f
+:END:
+#+title: Culture related objets I lost along the way
+# < 
+* The unberable lightness of being, Milan Kundera (~20 reais, 2021)
+  - Maria Eduarda, empregada na Martin Luther King
+  - Sebo
+* Fundamentos de ciência da computação, Forouzan, Behrouz, Mosharraf, ed. Cengage Learning (~180 reais, 2021)
+  - Gauche, palalaika
+  - https://www.cengage.com.br/ls/fundamentos-da-ciencia-da-computacao-traducao-da-2a-edicao-internacional/
+
+    # < 
+* Civil Disobedience, Walden and other texts (41 dolars -> ~240 reais, 2021)
+  - Túlio, palalaika
+  - https://www.amazon.com/Walden-Disobedience-Writings-Critical-Editions/dp/B006QO51OE
+* Seu Universo Interior, Krishnamurti (100-150 reais, 2021)
+  - Bronha, Rapadura
+  - https://www.saraiva.com.br/seu-universo-interior-voce-e-a-historia-da-humanidade-10015502/p
+* Tabuleiro de Xadrez (100-150 reais)
+* Sum
+
+#+begin_src emacs-lisp
+(+ 150 150 240 180 20)
+#+end_src
+
+#+RESULTS:
+: 740

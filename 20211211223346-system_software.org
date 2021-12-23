@@ -1,0 +1,14 @@
+#+title: System Software
+#+filetags: :Shell:GO:API:
+
+:PROPERTIES:
+:ID:       2a36a643-e1e8-40ce-a030-9c38340747b9
+:END:
+
+* System Software vs Application Software
+=System Software= are routines that not necesserly are directed to the
+end user. For example, It can be a pipe that chews down raw data into
+usable format by other Software.
+
+Generally, services provided by =System Software= are materialized
+through =APIs= to the =Application Software=.

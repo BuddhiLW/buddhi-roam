@@ -4,7 +4,7 @@
 * What does it explains and when does it is obeyed 
 
 #+begin_quote
-At a given temperature, the thermal and electrical conductivities of metals are proportional, but raising the temperature increases the thermal conductivity while decreasing the electrical conductivity. This behavior is quantified in the Wiedemann–Franz law. This law states that the ratio of the electronic contribution of the thermal conductivity (k) to the electrical conductivity (σ) of a metal is proportional to the temperature (T). ([[https://www.nuclear-power.net/nuclear-engineering/heat-transfer/thermal-conduction/thermal-conductivity/wiedemann-franz-law-lorenz-number/][Nuclear Power for Everybody website]], 2021)
+At a given temperature, the thermal and electrical conductivities of metals are proportional, but raising the temperature increases the thermal conductivity while decreasing the electrical conductivity. This behavior is quantified in the Wiedemann–Franz law. This law states that the ratio of the electronic contribution to the thermal conductivity (k) to the electrical conductivity (σ) of a metal is proportional to the temperature (T). ([[https://www.nuclear-power.net/nuclear-engineering/heat-transfer/thermal-conduction/thermal-conductivity/wiedemann-franz-law-lorenz-number/][Nuclear Power for Everybody website]], 2021)
 #+end_quote
 
 #+begin_quote
@@ -15,3 +15,20 @@ Highly electrically conductive silver is less thermally conductive than diamond,
 
 - Tropical theory on behavior -> Nietzsche Ecce Homo.
 - Trace explanations and observations on upper/lower and middle tropics. 
+
+  Electrical conduction can only take place on cold temperatures
+  because it must be ordered and in cold temperatures there is almost
+  no free energy to give a great variability of behavior. On the other
+  hand, Thermal conduction can depend on phonons or electrons having
+  enough energy to transmit vibrations (kinectic energy) throughout a
+  structure. So, generally, electrons can act as either an agent of
+  Thermal or Eletrical conduction because they depend on complementary
+  behavior ordered/chaotic.
+
+  Humans that are highly social unlikely will spend most of their
+  life-time studying stablished knowledge and further ordering it to
+  the future. But, they are most likely to distribute new
+  knowledge. Hypothesis: Certain geolocation
+  mean-temperature-ranges more likely to induce inovation and/or
+  consumption of products. Nietzsche spoke about it in Ecce Homo.
+  
