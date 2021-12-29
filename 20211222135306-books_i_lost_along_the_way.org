@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 :PROPERTIES:
 :ID:       2ae7875e-3061-43b9-8d7f-9f8b3cc9d80f
 :END:
 #+title: Culture related objets I lost along the way
+=======
+#+title: Culture related objets I lost along the way
+:PROPERTIES:
+:ID:       2ae7875e-3061-43b9-8d7f-9f8b3cc9d80f
+:END:
+>>>>>>> 7d64c41 (rebase)
 # < 
 * The unberable lightness of being, Milan Kundera (~20 reais, 2021)
   - Maria Eduarda, empregada na Martin Luther King

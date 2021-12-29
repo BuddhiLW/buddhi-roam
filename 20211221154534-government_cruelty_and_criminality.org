@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 :PROPERTIES:
 :ID:       edca1634-22d3-43bc-afa4-24f49afaa4e6
 :END:
 #+title: Government cruelty and criminality
+=======
+#+title: Government cruelty and criminality
+:PROPERTIES:
+:ID:       edca1634-22d3-43bc-afa4-24f49afaa4e6
+:END:
+>>>>>>> 7d64c41 (rebase)
 * Mídia NINJA  December 21, 2016  · 
 VERGONHA!
 

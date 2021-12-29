@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 :PROPERTIES:
 :ID:       e5f01295-877b-4aa5-8c4d-6bb4e3782fe9
 :END:
 #+title: David Thoreau
+=======
+#+title: David Thoreau
+:PROPERTIES:
+:ID:       e5f01295-877b-4aa5-8c4d-6bb4e3782fe9
+:END:
+>>>>>>> 7d64c41 (rebase)
 
 Author of =Civil Disobedience=,
 
