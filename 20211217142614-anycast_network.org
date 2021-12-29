@@ -1,0 +1,8 @@
+#+title: Anycast (Network)
+:PROPERTIES:
+:ID:       b36e68bf-8f99-47c0-8142-5606302df612
+:END:
+
+#+begin_src shell
+? anycast
+#+end_src

@@ -1,0 +1,15 @@
+#+title: Capitalization Rates
+- tags :: [[file:20210705130149-sociology.org][Sociology]]. [[file:20210705130142-outliers.org][Outliers]].
+
+* Blind spot
+-> 16% rate of capitalization on football athletes
+-> How much on  other non-prioritized areas?
+** TODO Research
+[[https://www.youtube.com/watch?v=EcMKLwVlpJk][Find]] the research on it ~<10min.
+
+* Capitalization Constrains
+** Poverty
+IQ test and genius-level development ([[https://www.gwern.net/docs/iq/2018-kell.pdf][research]] following >134 iq)
+** Stupidity
+Self-fufilling propecy.
+

@@ -1,0 +1,5 @@
+#+title: Reading
+- tags :: [[file:20210703235253-language.org][Language]]. [[file:20210703235314-medium.org][Medium]].
+
+* Smartphone's effect on Reading
+[[https://doi.org/10.21203/rs.3.rs-333878/v1][Experiments shows (🅭🅯)]] reading in phones decline comprehension. At the same time, hypothesize upon evidence that modes of breathing is interlinked in this fact. There are [[https://pubmed.ncbi.nlm.nih.gov/29967435/][other research]] which points that breathing-monitoring can increase information retention.

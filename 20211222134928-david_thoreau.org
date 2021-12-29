@@ -1,0 +1,15 @@
+#+title: David Thoreau
+:PROPERTIES:
+:ID:       e5f01295-877b-4aa5-8c4d-6bb4e3782fe9
+:END:
+
+Author of =Civil Disobedience=,
+
+#+begin_quote
+What does education often do?  It makes a straight cut ditch of a
+free meandering brook.
+
+-- Henry David Thoreau
+#+end_quote
+
+

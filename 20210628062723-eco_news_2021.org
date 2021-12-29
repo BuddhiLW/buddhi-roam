@@ -1,0 +1,13 @@
+#+title: Eco-news 2021
+- tags :: [[file:20210628062745-irc.org][IRC]].[[file:20210628064035-opinion.org][Opinion]]
+
+* 28 Jun 2021
+[[https://www.caixinglobal.com/2021-06-23/baidu-joins-caravan-of-chinese-tech-giants-targeting-carbon-neutrality-101730723.html][[GN:T:CT] Baidu Joins Caravan of Chinese Tech Giants Targeting Carbon Neutrality - Caixin Global]]
+[[https://www.afr.com/policy/energy-and-climate/business-is-leaving-politics-behind-on-carbon-20210624-p5841a][[GN:T:CT] Business is leaving politics behind on carbon - The Australian Financial Review]]
+[[https://www.smart-energy.com/industry-sectors/smart-grid/dominion-energy-virginia-files-669-million-grid-modernisation-plan/][[GN:T:WP]Dominion Energy Virginia files $669 million grid modernisation plan - Smart Energy]]
+[GN:T:RE] China's super heavy rocket to construct space-based solar
+power station - SpaceNews →
+https://spacenews.com/chinas-super-heavy-rocket-to-construct-space-based-solar-power-station/
+
+** Opinion and speculation:
+https://www.etfstream.com/news/esg-etfs-helping-the-long-term-shift-to-net-zero-emissions/

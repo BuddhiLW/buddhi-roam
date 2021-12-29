@@ -1,0 +1,13 @@
+#+title: Community
+
+- tags :: [[file:20210622153702-society.org][Society]].[[file:20210622154001-open_source.org][Open Source]]. 
+* Definition
+Communities must be a unit of people which are connect through interests, by being part of a social group or nationality.
+
+#+begin_quote
+- There's a real *sense of* community 
+#+end_quote
+by [[https://dictionary.cambridge.org/dictionary/english/community][cambridge dictionary]].
+
+* What distinguishes Communities over Societies 
+By the definition of [[file:20210622153702-society.org][Society]]

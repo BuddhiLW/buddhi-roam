@@ -1,0 +1,2 @@
+#+title: Hunter-Prey
+- tags :: [[file:20210707094904-mathematical_modeling.org][Mathematical Modeling]]. [[file:20210628062621-ecology.org][Ecology]].

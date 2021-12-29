@@ -1,0 +1,11 @@
+#+title: REST - Representational State Transfer
+:PROPERTIES:
+:ID:       226bb03e-5948-4c75-a16e-94375a4ad70f
+:END:
+
+=Transfer= data through a specific code that =represents= what you want
+in the codebase.
+
+Every =REST= API will have a url with a =base verb= and a tail
+=endpoint=.
+

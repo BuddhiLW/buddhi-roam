@@ -1,0 +1,20 @@
+#+title: Opinion
+- tags :: [[file:20210628062723-eco_news_2021.org][Eco-news 2021]].[[file:20210620100909-motive_agencies.org][Motive Agencies]].
+
+  In [[file:20210628062723-eco_news_2021.org::*Opinion and speculation:][Opinion and speculation:]] we see [[https://www.etfstream.com/news/esg-etfs-helping-the-long-term-shift-to-net-zero-emissions][this article.]] Which, to my suprise, shows us how much opinionated we can be on a number of subjects.
+
+  #+begin_quote
+Another factor Durkash highlighted is the power of media uptake, with increased coverage of climate issues such as the Australian wildfires and droughts in California, alongside social issues such as Black Lives Matter and #MeToo.
+  #+end_quote
+
+I ask myself, how come media-targeting social issues can help climate change? In as much as I can think, it should do the opposite. Since, it's a very viewed topic, it will serve as smoke screening for Clima Change and other issues, as [[file:20210628064826-julian_assange.org][Julian Assange]].
+
+The unbased claims are frequent, when talking about [[file:20210620100909-motive_agencies.org][Motive Agencies]],
+
+#+begin_quote
+“The best way to reduce carbon in the atmosphere is to not emit it at all.”
+#+end_quote
+
+#+begin_quote
+(...) then said increased retail involvement has played an important role. In addition to pressuring pension funds to move into investments aligning with ESG standards, private investors have found the sustainability story a compelling driver during their asset allocation. 
+#+end_quote

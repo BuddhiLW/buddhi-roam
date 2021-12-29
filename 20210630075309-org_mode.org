@@ -1,0 +1,17 @@
+#+title: Org-mode
+- tags :: [[file:20210630075331-notes.org][Notes]]. [[file:20210630075346-agenda.org][Agenda]]. [[file:20210630075400-unicode.org][Unicode]]. [[file:20210630075445-literate_programming.org][Literate Programming]].
+
+* Definition
+* Creation
+* Example of Unicode characters as Org-bullets.
+#+ATTR_HTML: :width 400
+  [[file:pic-selected-210630-0755-49.png][file:~/org-roam/pic-selected-210630-0755-49.png]]
+* Título
+** Subtítulo
+*** Subsub
+**** etc
+***** etc
+****** 🅭
+******* hey
+  
+

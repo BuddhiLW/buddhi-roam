@@ -1,0 +1,3 @@
+#+title: Scientific Work
+
+Any note linked to this file should have at least a (published-work) citation behinf it.

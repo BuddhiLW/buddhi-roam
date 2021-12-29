@@ -1,0 +1,9 @@
+#+title: URI - Uniform Resource Identifier
+:PROPERTIES:
+:ID:       e5cd8941-b51e-4be7-87e9-15332fd96fb3
+:END:
+
+=HTTP= requests have a protocol to map each and every resource in the
+*database*, by mapping univocally a =url= to a =resource=.
+
+This is done through =URI=.

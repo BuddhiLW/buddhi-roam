@@ -1,0 +1,79 @@
+#+title: USA Wars
+#+date: 2021-12-28 Tue
+#+filetags: :geopolitics:interference:imposition:hegemony:cup:war:USA:
+:PROPERTIES:
+:ID:       23c6466f-010b-4c25-9f75-b604b5b9bb04
+:ROAM_ALIASES: USA
+:END:
+
+#+begin_quote
+"After I asked him what he meant, he replied that freedom consisted of
+the unimpeded right to get rich, to use his ability, no matter what the
+cost to others, to win advancement."
+                -- Norman Thomas
+#+end_quote
+
+#+begin_quote
+If voting could change the system, it would be illegal.  If not voting
+could change the system, it would be illegal.
+#+end_quote
+
+
+* Iraq 2003
+** Archbishop Desmond Tutu
+#+begin_quote
+"Peace is the condition that would be the normal condition," he said. "Those who want to subvert peace have to tell us why it's necessary to do that."
+
+Tutu said the war is not a justifiable conflict, calling it evil in the eyes of the church. He said weapons inspectors should have been given more time in Iraq.
+#+end_quote
+
+** Flawed USA-UK intelligence assertion
+*** US-UK Motives
+The Geopolitical motives to invade Iraq were brute force from US-UK, because they could. A totalitarian move, no other words to describe it. And, to describe it is to mock it.
+
+#+begin_quote
+Because the UN Security Council refused to endorse the US-UK invasion and occupation of Iraq in March
+2003, Washington and London hoped to ignore the UN and operate with a free hand in the country. But a
+fierce Iraqi resistance, persistent economic and political problems, and continuing international
+criticism forced the US-UK to seek international partners for their enterprise, including assistance
+from the UN. A debate ensured between those who thought that the UN could be the wedge for
+internationalization and US-UK withdrawal and those who thought a UN presence would only discredit the
+world body.
+
+Following the adoption of Security Council Resolution 1483 two months after the war, UN Secretary
+General Kofi Annan appointed a Special Representative for Iraq and the UN assumed some small
+responsibilities there. Many critics warned, though, that the UN should not be identified with the
+illegal war and occupation. In August 2003, a massive bombing of UN headquarters in Baghdad confirmed
+the critics' fears, killing fifteen UN staff including the Special Representative. The UN then pulled
+out of Iraq and kept its distance, but in February 2004, under heavy US pressure, the UN agreed to send
+a mission to the country, to help construct a new interim government. Again, Washington kept the UN's
+political role weak, while seeking UN legitimation. After the establishment of an interim government in
+June, the US pressured the UN to take a larger role in planning national elections, but security dangers
+and reluctance by the Secretary General and UN staff kept the UN role to a minimum. Only if the US
+occupation ends, does a substantial UN role now appear likely.
+#+end_quote
+https://archive.globalpolicy.org/security/issues/iraq/weapindex.htm
+
+*** There was no plausible evidence to support US-UK plans; they started the war, anyway
+In 2002, no sings of =Weapon of Mass Destruction= (WMD) were found in Iraq. And, the kind of missiles that were requested to be destroyed were, indeed, destroyed.
+
+#+begin_quote
+The inspections, which began on 27 November, were mandated by the Security Council in resolution 1441
+(2002), which gave Iraq a "final opportunity to comply with its disarmament obligations" dating to 1991
+and the end of the Persian Gulf war.
+
+The Director-General of the IAEA, Mr. ElBaradei, reported that, after three months of intrusive
+inspections, the Agency had found no evidence or plausible indication of the revival of a nuclear
+weapons programme in Iraq.  There was also no indication that Iraq had attempted to import uranium since
+1990 or that it had attempted to import aluminium tubes for use in centrifuge enrichment.
+
+Although the IAEA was still reviewing issues related to magnets and magnet production, he continued,
+there was also no indication that Iraq had imported magnets for use in centrifuge enrichment programme.
+The Agency would continue to further scrutinize and investigate all of the above issues.
+
+Several speakers pointed to examples of tangible progress, including the ongoing destruction of
+Al-Samoud 2 missiles and interviews with Iraqi scientists.  Peaceful means to achieving Iraq's
+disarmament were, many stated, far from exhausted.
+#+end_quote
+
+https://www.un.org/press/en/2003/sc7682.doc.htm

@@ -1,0 +1,4 @@
+#+title: Dramatism
+
+A theory frame-work of life developed by Kenneth Burke. The hypothesis is that life, just as literacy, can be understood through the dynamic of motives. These motives can be interpreted and understood by five factors. In a diagram, it forms a [[file:20210620094516-dramatistic_pentad.org][Dramatistic Pentad]].
+

@@ -1,0 +1,2 @@
+#+title: Insulator (People)
+- tags :: [[file:20210628041325-insulator_materials.org][Insulator (Materials)]].

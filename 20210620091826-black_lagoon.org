@@ -1,0 +1,5 @@
+#+title: Black Lagoon
+#+roam_key: https://en.wikipedia.org/wiki/Black_Lagoon
+
+- tags :: [[file:20210620093607-grammar_of_motives.org][Grammar of Motives]]. [[file:20210620093651-contextual_reframing.org][Contextual Reframing]]. 
+- source :: https://en.wikipedia.org/wiki/Black_Lagoon

@@ -1,0 +1,12 @@
+#+title: Grammar of Motives
+
+- tags :: [[file:20210620094256-kenneth_burke.org][Kenneth Burke]]. [[file:20210620094340-dramatism.org][Dramatism]]. [[file:20210620094516-dramatistic_pentad.org][Dramatistic Pentad.]] [[file:20210620100909-motive_agencies.org][Motive Agencies]] [[file:20210620111655-scientific_work.org][Scientific Work]]
+- source :: [[https://archive.org/details/grammarofmotives1945burk/page/n19/mode/2up][Grammar of Motives -- archive.org -- book]]
+
+* Summary
+In this book, Kenneth Burke uses a myriad of inter-text analysis as examples of how the [[file:20210620094516-dramatistic_pentad.org][Dramatistic Pentad]] can be applied. Generally, 
+
+* Year published
+1945 cite:burke1969grammar
+
+bibliography:/home/buddhilw/org-roam/bibliography.bib
