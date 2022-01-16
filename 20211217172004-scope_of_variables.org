@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-:PROPERTIES:
-:ID:       447829e7-49de-454a-a50b-a05926594b81
-:END:
-#+title: Scope of variables
-=======
 #+title: Scope of variables
 :PROPERTIES:
 :ID:       447829e7-49de-454a-a50b-a05926594b81
 :END:
->>>>>>> 7d64c41 (rebase)
 
 The region of code, where a variable can be accessed, with a given
 value.

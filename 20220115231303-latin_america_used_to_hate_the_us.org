@@ -1,0 +1,16 @@
+#+title: Latin America used to hate the US
+:PROPERTIES:
+:ID:       72b4f1de-0bcd-4de8-8fd7-5a7a8703c243
+:END:
+
+In Caracas, Venezuela, Richard Nixon was once attacked ([[https://www.history.com/this-day-in-history/vice-president-nixon-is-attacked][1]], [[https://en.wikipedia.org/wiki/Attack_on_Richard_Nixon's_motorcade][2]]). People in Venezuela were
+pretty aware at the time (1958) of US dictatorial policies. For an example, the
+US awarded Marcos Perez Jimenez (1954), the right-wing dictator, the =Legion of
+Merit= medal [[https://qcostarica.com/the-history-and-hypocrisy-of-us-meddling-in-venezuela/][(3)]].
+
+#+ATTR_HTML: :width 500px
+[[file:img/general_marcos_perez_jimenez_medalla.jpg][file:~/buddhi-roam/img/general_marcos_perez_jimenez_medalla.jpg]]
+
+(1): https://www.history.com/this-day-in-history/vice-president-nixon-is-attacked
+(2): https://en.wikipedia.org/wiki/Attack_on_Richard_Nixon's_motorcade
+(3): https://qcostarica.com/the-history-and-hypocrisy-of-us-meddling-in-venezuela/

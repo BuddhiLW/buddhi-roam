@@ -1,16 +1,12 @@
-<<<<<<< HEAD
-:PROPERTIES:
-:ID:       1dbe8d20-af97-4ccb-b8a3-1d94163c344c
-:END:
-#+title: Climate Desasters
-#+filetags: :ecology:eco-ativism:news:climate-denialism:
-=======
 #+title: Climate Desasters
 #+filetags: :ecology:eco-ativism:news:climate-denialism:
 :PROPERTIES:
 :ID:       1dbe8d20-af97-4ccb-b8a3-1d94163c344c
 :END:
->>>>>>> 7d64c41 (rebase)
 
 Links:
 https://edition.cnn.com/2009/TECH/science/12/03/shishmaref.alaska.climate.change/index.html?eref=rss_tech
+
+* USA, Colorado
+** Climate Change-Fueled Blaze Destroys 1,000 Homes in Colorado in Rare Winter Wildfire
+https://www.youtube.com/watch?v=Io5WZ7OQ49A&t=1m05s

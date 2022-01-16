@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-:PROPERTIES:
-:ID:       a61d1541-6c8d-4807-baf3-0713771b49f9
-:END:
-#+title: Polution and Inconsequence
-=======
 #+title: Polution and Inconsequence
 :PROPERTIES:
 :ID:       a61d1541-6c8d-4807-baf3-0713771b49f9
 :END:
->>>>>>> 7d64c41 (rebase)
 
 * Moreover than Ecocide, historical data makeup
 ** Ecocide

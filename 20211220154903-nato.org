@@ -1,15 +1,4 @@
-<<<<<<< HEAD
-:PROPERTIES:
-:ID:       cdae0b06-8476-4500-8102-b46445bfa504
-:END:
-#+title: NATO - North Atlantic Treaty Organization
-=======
 #+title: NATO - North Atlantic Treaty Organization
 :PROPERTIES:
 :ID:       cdae0b06-8476-4500-8102-b46445bfa504
 :END:
->>>>>>> 7d64c41 (rebase)
-
-
-
-
